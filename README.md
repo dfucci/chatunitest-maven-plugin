@@ -97,7 +97,7 @@ If you use local LLM (such as code-llama), simply specify the model and url in t
 ```xml
 <dependency>
     <groupId>io.github.ZJU-ACES-ISE</groupId>
-    <artifactId>chatunitest-starter</artifactId>
+    <artifactId>chatunitest-maven-plugin</artifactId>
     <version>1.4.0</version>
     <type>pom</type>
 </dependency>
